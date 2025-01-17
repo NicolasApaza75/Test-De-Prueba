@@ -1,4 +1,4 @@
 Sillon
 Mesa
 Silla
-Armario
+Cama
