@@ -1,3 +1,4 @@
 Sillon
 Mesa
 Silla
+Armario
